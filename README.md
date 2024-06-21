@@ -27,6 +27,8 @@ Ao acertar a questão a cor verde fica em evidência automaticamente demonstrand
 
 Referente a aparência do quiz achei legal fazer algumas modificações em relação ao original como a aplicação de uma cor gradiente na caixa do título "Quiz de Programação", a cor de fundo preto e o mais bacana, a animação no título. Com essa animação vocês podem ver que cada uma das letras do título estarão animadas quando a página for carregada, fazendo com que elas deslizem de cima para baixo e se tornem visíveis.
 
+https://github.com/amandaadev/project-udemy-quizz/assets/116441572/8ff0cbb1-b99a-4bf6-8e1c-5b9864f547a0
+
 ### Vamos lá! Teste seus conhecimentos com o Quiz de Programação 👊
 
 ## 🛠Tecnologias utilizadas
