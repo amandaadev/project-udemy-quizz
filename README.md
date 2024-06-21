@@ -6,7 +6,7 @@ Durante o curso intensivo de JavaScript, o Quiz de Programação foi criado com 
 
 Por enquanto há somente uma sequência de três perguntas que foram feitas durante o curso, mas a ideia é inserir minhas próprias perguntas até para tornar o quiz mais divertido. 🤩
 
-- Deploy:
+- Deploy: https://amandaadev.github.io/project-udemy-quizz/
 
 ## Índice
 
