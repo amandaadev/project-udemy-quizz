@@ -11,16 +11,9 @@ Por enquanto há somente uma sequência de três perguntas que foram feitas dura
 ## Índice
 
 - <a href="#sobre-o-jogo">Sobre o projeto</a>
-- <a href="#📝sobre-o-jogo">Sobre o projeto d</a>
-
 - <a href="#aparência-do-jogo">Aparência do jogo</a>
-- <a href="#✅aparência-do-jogo">Aparência do jogo d</a>
-
 - <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>
-- <a href="#🛠tecnologias-utilizadas">Tecnologias utilizadas d</a>
-
 - <a href="#desenvolvido-por"> Desenvolvido por</a>
-- <a href="#👩🏽‍💻desenvolvido-por"> Desenvolvido por d</a>
 
 ## 📝Sobre o jogo
 
