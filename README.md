@@ -11,9 +11,16 @@ Por enquanto há somente uma sequência de três perguntas que foram feitas dura
 ## Índice
 
 - <a href="#sobre-o-jogo">Sobre o projeto</a>
+- <a href="#sobre-o-jogo-📝">Sobre o projeto d</a>
+
 - <a href="#aparência-do-jogo">Aparência do jogo</a>
+- <a href="#aparência-do-jogo-✅">Aparência do jogo d</a>
+
 - <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>
+- <a href="#tecnologias-utilizadas-🛠">Tecnologias utilizadas d</a>
+
 - <a href="#desenvolvido-por"> Desenvolvido por</a>
+- <a href="#desenvolvido-por-👩🏽‍💻"> Desenvolvido por d</a>
 
 ## Sobre o jogo 📝
 
@@ -36,7 +43,7 @@ Referente a aparência do quiz achei legal fazer algumas modificações em rela�
  <img alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 </div>
 
-## 👩🏽‍💻Desenvolvido por 👩🏽‍💻
+## Desenvolvido por 👩🏽‍💻
 
 ### `Amanda Hellen` durante o <strong>Curso de JavaScript do básico ao avançado (c/ Node.js e projetos)</strong> da Udemy.
 
