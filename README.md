@@ -11,18 +11,18 @@ Por enquanto há somente uma sequência de três perguntas que foram feitas dura
 ## Índice
 
 - <a href="#sobre-o-jogo">Sobre o projeto</a>
-- <a href="#sobre-o-jogo-📝">Sobre o projeto d</a>
+- <a href="#📝sobre-o-jogo">Sobre o projeto d</a>
 
 - <a href="#aparência-do-jogo">Aparência do jogo</a>
-- <a href="#aparência-do-jogo-✅">Aparência do jogo d</a>
+- <a href="#✅aparência-do-jogo">Aparência do jogo d</a>
 
 - <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>
-- <a href="#tecnologias-utilizadas-🛠">Tecnologias utilizadas d</a>
+- <a href="#🛠tecnologias-utilizadas">Tecnologias utilizadas d</a>
 
 - <a href="#desenvolvido-por"> Desenvolvido por</a>
-- <a href="#desenvolvido-por-👩🏽‍💻"> Desenvolvido por d</a>
+- <a href="#👩🏽‍💻desenvolvido-por"> Desenvolvido por d</a>
 
-## Sobre o jogo 📝
+## 📝Sobre o jogo
 
 O projeto funciona com eventos de acertar ou errar a pergunta, então logo abaixo temos uma pergunta e caso você erre, automaticamente o quiz mostra o erro em vermelho em torno de 1 segundo, trazendo a resposta certa.
 
@@ -30,20 +30,20 @@ Ao acertar a questão a cor verde fica em evidência automaticamente demonstrand
 
 ![quiz](./assets/quiz-perguntas.png)
 
-## Aparência do jogo ✅
+## ✅Aparência do jogo
 
 Referente a aparência do quiz achei legal fazer algumas modificações em relação ao original como a aplicação de uma cor gradiente na caixa do título "Quiz de Programação", a cor de fundo preto e o mais bacana, a animação no título. Com essa animação vocês podem ver que cada uma das letras do título estarão animadas quando a página for carregada, fazendo com que elas deslizem de cima para baixo e se tornem visíveis.
 
 ### Vamos lá! Teste seus conhecimentos com o Quiz de Programação 👊
 
-## Tecnologias utilizadas 🛠
+## 🛠Tecnologias utilizadas
 
 <div>
 <img alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> <img alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
  <img alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 </div>
 
-## Desenvolvido por 👩🏽‍💻
+## 👩🏽‍💻Desenvolvido por
 
 ### `Amanda Hellen` durante o <strong>Curso de JavaScript do básico ao avançado (c/ Node.js e projetos)</strong> da Udemy.
 
